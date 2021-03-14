@@ -23,18 +23,19 @@
 
 ### Languages and Tools:
 
-<a>
-  <img align="left" alt="vscode" width="30px" src="https://rakibul25.github.io/Rakibul25/img/visual-studio.svg" />
-</a>
-<a>
-  <img align="left" alt="androidst" width="30px" src="https://rakibul25.github.io/Rakibul25/img/androidst.svg" />
-</a>
-<a>
-  <img align="left" alt="java" width="30px" src="https://rakibul25.github.io/Rakibul25/img/java.svg" />
-</a>
-<a>
-  <img align="left" alt="dart" width="30px" src="https://rakibul25.github.io/Rakibul25/img/logo_dart_192px.svg" />
-</a>
+<h3> Languages </h3>
+
+[![java Badge](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=green)]
+[![dart Badge](https://img.shields.io/badge/-Dart-white?style=flat-square&logo=dart&logoColor=blue)]
+[![python Badge](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=FFD43B)]
+[![js Badge](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=javascript)]
+
+
+
+[![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual%20studio%20code&logoColor=white)]
+[![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)]
+
+
 <a>
   <img align="left" alt="flutter" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/flutterio-ar21.svg" />
 </a>
@@ -44,15 +45,7 @@
 <a>
   <img align="left" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/sqlite-icon.svg" />
 </a>
-<a>
-  <img align="left" alt="python" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/python.svg" />
-</a>
-<a>
-  <img align="js" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/js.svg" />
-</a>
-<a>
-  <img align="mysql" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/mysql-ar21.svg" />
-</a>
+
 <a>
   <img align="terminal" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/windows_terminal.svg" />
 </a>
