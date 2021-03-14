@@ -21,34 +21,44 @@
 
 <br />
 
-### Languages and Tools:
+### Know/Using-
 
-<h3> Languages </h3>
-
+- Languaes
+- 
 ![java Badge](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=green)
 ![dart Badge](https://img.shields.io/badge/-Dart-white?style=flat-square&logo=dart&logoColor=blue)
 ![python Badge](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=FFD43B)
 ![js Badge](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=javascript)
+![c Badge](https://img.shields.io/badge/-C%20-white?style=flat-square&logo=c)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5%20-white?style=flat-square&logo=html5)
+![mysql Badge](https://img.shields.io/badge/-MySQL%20-white?style=flat-square&logo=mysql)
+![css Badge](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=CSS3&logoColor=blue)
+![xml Badge](https://img.shields.io/badge/-XML-yellow?style=flat-square)
 
 
+- Front end technologies
+
+![vscode Badge](https://img.shields.io/badge/-Flutter-white?style=flat-square&logo=flutter&logoColor=blue)
+
+
+
+- Back end technologies
+
+![firebase Badge](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=yellow)
+![sqlite Badge](https://img.shields.io/badge/-Sqlite-white?style=flat-square&logo=sqlite&logoColor=blue)
+![flask Badge](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
+
+
+
+- Tools
 
 ![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)
+![terminal stu Badge](https://img.shields.io/badge/-Windows%20Terminal-white?style=flat-square&logo=windows%20terminal&logoColor=black)
+![terminal stu Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=github&logoColor=black)
 
 
-<a>
-  <img align="left" alt="flutter" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/flutterio-ar21.svg" />
-</a>
-<a>
-  <img align="left" alt="firebase" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/firebase-ar21.svg" />
-</a>
-<a>
-  <img align="left" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/sqlite-icon.svg" />
-</a>
 
-<a>
-  <img align="terminal" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/windows_terminal.svg" />
-</a>
 
 
 
