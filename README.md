@@ -25,15 +25,15 @@
 
 <h3> Languages </h3>
 
-[![java Badge](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=green)]
-[![dart Badge](https://img.shields.io/badge/-Dart-white?style=flat-square&logo=dart&logoColor=blue)]
-[![python Badge](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=FFD43B)]
-[![js Badge](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=javascript)]
+![java Badge](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=green)
+![dart Badge](https://img.shields.io/badge/-Dart-white?style=flat-square&logo=dart&logoColor=blue)
+![python Badge](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&logoColor=FFD43B)
+![js Badge](https://img.shields.io/badge/-Javascript-white?style=flat-square&logo=javascript)
 
 
 
-[![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual%20studio%20code&logoColor=white)]
-[![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)]
+![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)
 
 
 <a>
