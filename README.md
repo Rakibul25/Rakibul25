@@ -9,8 +9,7 @@
 
 ### Connect with me:
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="rakibul-islam-9078b1187"><a class="LI-simple-link" href='https://bd.linkedin.com/in/rakibul-islam-9078b1187?trk=profile-badge'>Rakibul Islam</a></div>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FRakibul14092789">
 
 
 
