@@ -8,7 +8,11 @@
 
 
 ### Connect with me:
-<img alt="Custom badge" src="https://img.shields.io/endpoint?label=Rakibul%20Islam&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frakibul-islam-9078b1187%2F">
+<p align=”center”>
+<a href=”https://www.linkedin.com/in/rakibul-islam-9078b1187/”>
+<img src=”https://img.shields.io/badge/LinkedIn%20-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 
 
 
