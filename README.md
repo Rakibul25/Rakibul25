@@ -15,6 +15,9 @@
 <a href="https://twitter.com/Rakibul14092789">
   <img align="left" alt="Rakib's Twitter" width="22px" src="https://rakibul25.github.io/Rakibul25/img/twitter.svg" />
 </a>
+<a href="https://www.instagram.com/rakibul_islam_25">
+  <img align="left" alt="Rakib's Insta" width="22px" src="https://rakibul25.github.io/Rakibul25/img/instagram.svg" />
+</a>
 
 <br />
 
