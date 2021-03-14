@@ -54,7 +54,8 @@
     ![terminal stu Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=github&logoColor=black)
 
 
--currently learning
+- currently learning
+    <p> Assembly Programming </p>
 
 
 
