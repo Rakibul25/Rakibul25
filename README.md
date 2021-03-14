@@ -8,11 +8,11 @@
 
 
 ### Connect with me:
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/rakibul-islam-9078b1187/”>
-<img src=”https://img.shields.io/badge/LinkedIn%20-blue?style=flat&logo=linkedin&labelColor=blue">
+
+<a href=”rakibul-islam-9078b1187”>
+<img src=”https://img.shields.io/badge/-Rakibul%20Islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakibul-islam-9078b1187/">
 </a>
-</p>
+
 
 
 
