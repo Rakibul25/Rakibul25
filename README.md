@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/Rakibul14092789">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Pawan's Twitter" width="22px" src="Rakibul25/img/twitter.svg" />
 </a>
 
 <br />
