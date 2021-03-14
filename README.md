@@ -4,7 +4,7 @@
 
 
 - 👯 I’m looking to collaborate with software developers
-- ⚡ I love to cook,play guitar and write in Bengali!
+- ⚡ I love to cook,play guitar and write!
 
 
 ### Connect with me:
