@@ -9,18 +9,10 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/Rakibul14092789">
-  <img align="left" alt="Rakib's Twitter" width="22px" src="https://rakibul25.github.io/Rakibul25/img/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/rakibul_islam_25">
-  <img align="left" alt="Rakib's Insta" width="22px" src="https://rakibul25.github.io/Rakibul25/img/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rakibul-islam-9078b1187">
-  <img align="left" alt="Rakib's LinkedIn" width="22px" src="https://rakibul25.github.io/Rakibul25/img/linkedin.svg" />
-</a>
-<a href="mdrakib.mri93@gmail.com">
-  <img align="left" alt="Rakib's LinkedIn" width="22px" src="https://rakibul25.github.io/Rakibul25/img/gmail.svg" />
-</a>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="rakibul-islam-9078b1187"><a class="LI-simple-link" href='https://bd.linkedin.com/in/rakibul-islam-9078b1187?trk=profile-badge'>Rakibul Islam</a></div>
+
+
 
 
 <br />
