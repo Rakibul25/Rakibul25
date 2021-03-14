@@ -57,12 +57,10 @@
 - currently learning
     <p> Assembly Programming </p>
 
+<hr>
 
-
-<div align="center">
    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul25&layout=compact&hide=html">
    <image align="center" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=compact"> 
-</div> 
 
 
 <br />
