@@ -19,7 +19,7 @@
 
 ### know/using-
 
-- languaes
+- languages
 
     ![java Badge](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&logoColor=green)
     ![dart Badge](https://img.shields.io/badge/-Dart-white?style=flat-square&logo=dart&logoColor=blue)
