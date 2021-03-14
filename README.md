@@ -9,7 +9,15 @@
 
 ### Connect with me:
 
-https://img.shields.io/twitter/url?label=Rakibul%20Islam&style=social&url=https%3A%2F%2Ftwitter.com%2FRakibul14092789
+<a href="https://twitter.com/Rakibul14092789">
+  <img align="left" alt="Rakib's Twitter" width="22px" src="https://rakibul25.github.io/Rakibul25/img/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/rakibul_islam_25">
+  <img align="left" alt="Rakib's Insta" width="22px" src="https://rakibul25.github.io/Rakibul25/img/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rakibul-islam-9078b1187">
+  <img align="left" alt="Rakib's LinkedIn" width="22px" src="https://rakibul25.github.io/Rakibul25/img/linkedin.svg" />
+</a>
 
 
 
