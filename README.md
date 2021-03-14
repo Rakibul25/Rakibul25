@@ -10,7 +10,8 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rakibul%20Islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakibul-islam-9078b1187/)](https://www.linkedin.com/in/rakibul-islam-9078b1187/)
-[![Insta Badge](https://img.shields.io/badge/-rakibul_%20Islam_25_-white?style=flat-square&logo=Instagram&logoColor=#405DE6&link=https://www.instagram.com/rakibul_islam_25/)](https://www.instagram.com/rakibul_islam_25/)
+[![Insta Badge](https://img.shields.io/badge/-rakibul_%20Islam25_-white?style=flat-square&logo=Instagram&logoColor=#405DE6&link=https://www.instagram.com/rakibul_islam_25/)](https://www.instagram.com/rakibul_islam_25/)
+[![twitter Badge](https://img.shields.io/badge/-rakibul_%20Islam-white?style=flat-square&logo=twitter&logoColor=#405DE6&link=https://twitter.com/Rakibul14092789)](https://twitter.com/Rakibul14092789)
 
 
 
