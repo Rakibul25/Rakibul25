@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm Rakibul Islam, CS student. From Dhaka,Bangladesh. </p>
+<p>I'm Rakibul Islam, final year CS student. From Dhaka,Bangladesh. </p>
 
 
 -  I’m looking to collaborate with software developers.
@@ -48,7 +48,7 @@
 
 - tools
 
-    ![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+    ![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-white?style=flat-square&logo=visual%20studio%20code&logoColor=purple)
     ![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)
     ![terminal stu Badge](https://img.shields.io/badge/-Windows%20Terminal-white?style=flat-square&logo=windows%20terminal&logoColor=black)
     ![terminal stu Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=github&logoColor=black)
@@ -60,13 +60,9 @@
 
 <div align="center">
     
-   <image align="center" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=light"> 
+   <image align="center" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=onedark"> 
        
 </div> 
 
 
-
-
-
-<br />
 <br />
