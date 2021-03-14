@@ -8,6 +8,7 @@
 
 
 ### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-rakibul-islam-9078b1187-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rakibul-islam-9078b1187/)]
 
 <a href="https://twitter.com/Rakibul14092789">
   <img align="left" alt="Rakib's Twitter" width="22px" src="https://rakibul25.github.io/Rakibul25/img/twitter.svg" />
