@@ -56,6 +56,9 @@
 <a>
   <img align="mysql" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/mysql-ar21.svg" />
 </a>
+<a>
+  <img align="terminal" alt="sqlite" width="55px" height="35" src="https://rakibul25.github.io/Rakibul25/img/windows_terminal.svg" />
+</a>
 
 
 
