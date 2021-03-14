@@ -18,6 +18,9 @@
 <a href="https://www.linkedin.com/in/rakibul-islam-9078b1187">
   <img align="left" alt="Rakib's LinkedIn" width="22px" src="https://rakibul25.github.io/Rakibul25/img/linkedin.svg" />
 </a>
+<a href="mdrakib.mri93@gmail.com">
+  <img align="left" alt="Rakib's LinkedIn" width="22px" src="https://rakibul25.github.io/Rakibul25/img/gmail.svg" />
+</a>
 
 
 <br />
