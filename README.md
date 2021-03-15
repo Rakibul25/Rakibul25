@@ -52,6 +52,7 @@
     ![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)
     ![terminal stu Badge](https://img.shields.io/badge/-Windows%20Terminal-white?style=flat-square&logo=windows%20terminal&logoColor=black)
     ![terminal stu Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=github&logoColor=black)
+    ![hackerrank Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=hackerrank&logoColor=green)
 
 
 - currently learning
