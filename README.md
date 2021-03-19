@@ -55,6 +55,7 @@
 
 
 - currently learning
+
     ![flask Badge](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
 
 <hr>
