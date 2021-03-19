@@ -43,7 +43,6 @@
 
     ![firebase Badge](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=yellow)
     ![sqlite Badge](https://img.shields.io/badge/-Sqlite-white?style=flat-square&logo=sqlite&logoColor=blue)
-    ![flask Badge](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
 
 
 - tools
@@ -56,7 +55,7 @@
 
 
 - currently learning
-    <p> Assembly Programming </p>
+    ![flask Badge](https://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
 
 <hr>
 
