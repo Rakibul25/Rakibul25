@@ -28,7 +28,6 @@
     <br>
     ![c Badge](https://img.shields.io/badge/-C%20-white?style=flat-square&logo=c)
     ![HTML5 Badge](https://img.shields.io/badge/-HTML5%20-white?style=flat-square&logo=html5)
-    ![mysql Badge](https://img.shields.io/badge/-MySQL%20-white?style=flat-square&logo=mysql)
     <br>
     ![css Badge](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=CSS3&logoColor=blue)
     ![xml Badge](https://img.shields.io/badge/-XML-yellow?style=flat-square)
@@ -41,6 +40,8 @@
 
 - back end technologies
 
+    ![django Badge](https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=black)
+    ![mysql Badge](https://img.shields.io/badge/-MySQL%20-white?style=flat-square&logo=mysql)
     ![firebase Badge](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=yellow)
     ![sqlite Badge](https://img.shields.io/badge/-Sqlite-white?style=flat-square&logo=sqlite&logoColor=blue)
 
@@ -56,8 +57,7 @@
 
 - currently learning
 
-    ![flask Badge](https://img.shields.io/badge/-Django-white?style=flat-square&logo=django&logoColor=black)
-
+    
 <hr>
 
    <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul25&layout=compact&hide=html">
