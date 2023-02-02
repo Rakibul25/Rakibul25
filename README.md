@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Completed my graduation in computer science & engineering from United International University. Strongly passionate about software engineering. If you want to know about my qualifications and other informations, please download my resume from [here](https://drive.google.com/drive/folders/11CBADlaI-XRwVrPcwRNIt_NYBxaxIRjN). </p>
+Completed my graduation in computer science & engineering from United International University. Strongly passionate about software engineering. If you want to know about my qualifications and other informations, please download my resume from [here](https://drive.google.com/drive/folders/11CBADlaI-XRwVrPcwRNIt_NYBxaxIRjN).
 
 
 ### Get touch with me
