@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<p>I'm Rakibul Islam, final year CS student. From Dhaka,Bangladesh. </p>
-
-
--  I’m looking to collaborate with software developers.
--  I love to cook,play guitar and write! 😛
+<p>Completed my graduation in computer science & engineering from United International University. Strongly passionate about software engineering. If you want to know about my qualifications and other informations, please download my resume from [here](https://drive.google.com/drive/folders/11CBADlaI-XRwVrPcwRNIt_NYBxaxIRjN). </p>
 
 
 ### Get touch with me
