@@ -39,25 +39,22 @@ Completed my graduation in computer science & engineering from United Internatio
 
     ![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)
     ![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-white?style=flat-square&logo=visual%20studio%20code&logoColor=purple)
-    ![terminal stu Badge](https://img.shields.io/badge/-Windows%20Terminal-white?style=flat-square&logo=windows%20terminal&logoColor=black)
-    ![terminal stu Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=github&logoColor=black)
-    ![hackerrank Badge](https://img.shields.io/badge/-Hacker%20Rank-white?style=flat-square&logo=hackerrank&logoColor=green)
+    ![github stu Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=github&logoColor=black)
 
     
 <hr>
 
-   <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true" />
-</picture>
-   <image align="center" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=compact"> 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="stat" align="center" height="165" width="auto"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul25&hide=html,css&exclude_repo=ocr-cnn,covid19-detection-xray,course-projects&theme=dracula&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="lang" align="center" height="165" width="auto"
+      src="https://github-readme-stats.vercel.app/api?username=Rakibul25&count_private=true&theme=dracula&show_icons=true" />
+  </a>
+</div>
 
 
-<br />
+
+
