@@ -32,7 +32,6 @@ Completed my graduation in computer science & engineering from United Internatio
 
     ![mysql Badge](https://img.shields.io/badge/-MySQL%20-white?style=flat-square&logo=mysql)
     ![firebase Badge](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase&logoColor=yellow)
-    ![sqlite Badge](https://img.shields.io/badge/-Sqlite-white?style=flat-square&logo=sqlite&logoColor=blue)
 
 
 - tools
