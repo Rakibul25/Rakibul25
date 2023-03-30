@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Completed my graduation in computer science & engineering from United International University. Strongly passionate about software engineering. If you want to know about my qualifications and other informations, please download my resume from [here](https://drive.google.com/drive/folders/11CBADlaI-XRwVrPcwRNIt_NYBxaxIRjN) and visit my [portfolio](https://rakibul25.github.io/Rakibul25-portfolio/#/).
+Hi there, I'm Rakibul Islam, a software engineer with a passion for crafting elegant and efficient software solutions. I recently graduated with a degree in computer science and engineering from United International University, where I honed my skills in programming, software design, and problem-solving.
+
+I love working on challenging projects that push the boundaries of what's possible, and I'm always striving to learn and grow as a developer. If you're interested in seeing some of my work, please feel free to check out my [portfolio](https://rakibul25.github.io/Rakibul25-portfolio/#/) website. Let's connect and collaborate on something great!.
 
 
 ### Get touch with me
@@ -39,8 +41,8 @@ Completed my graduation in computer science & engineering from United Internatio
     ![android stu Badge](https://img.shields.io/badge/-Android%20Studio-white?style=flat-square&logo=android%20studio&logoColor=Maximum%20Green)
     ![vscode Badge](https://img.shields.io/badge/-Visual%20Studio-white?style=flat-square&logo=visual%20studio%20code&logoColor=purple)
     ![github stu Badge](https://img.shields.io/badge/-Git%20Hub-white?style=flat-square&logo=github&logoColor=black)
+    ![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 
-    
 <hr>
 
 <div align="center">
