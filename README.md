@@ -13,7 +13,7 @@ Completed my graduation in computer science & engineering from United Internatio
 <br />
 <hr>
 
-### know/using-
+### Skills and Expertise
 
 - languages
 
