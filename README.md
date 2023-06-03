@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there, I'm Rakibul Islam, a software developer with a passion for crafting elegant and efficient software solutions. I recently graduated with a degree in computer science and engineering from United International University, where I honed my skills in programming, software design, and problem-solving.
+I'm Rakibul Islam, a software developer at Codeware Ltd.
 
 I love working on challenging projects that push the boundaries of what's possible, and I'm always striving to learn and grow as a developer. If you're interested in seeing some of my work, please feel free to check out my [portfolio](https://rakibul25.github.io/Rakibul25-portfolio/#/) website. Let's connect and collaborate on something great!.
 
