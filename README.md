@@ -2,8 +2,6 @@
 
 I'm a mobile application developer at **Codeware Ltd.**, passionate about building fast, reliable, and visually engaging apps. My focus lies in developing production-ready solutions using **Flutter**, **Kotlin**, and **native mobile technologies** for both Android and iOS.
 
-Check out my work and projects on my [portfolio website](https://rakibul25.github.io/Rakibul25-portfolio/#/).
-
 ---
 
 ### 🛠️ Tech Stack
