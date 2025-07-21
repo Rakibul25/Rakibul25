@@ -32,14 +32,26 @@ I'm a mobile application developer at **Codeware Ltd.**, passionate about buildi
 
 ---
 
-### 📈 GitHub Stats
+## 💳 GitHub Profile Summary Card
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul25&hide=html,css&layout=compact&theme=light&langs_count=6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&count_private=true&theme=light&show_icons=true" />
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakibul25&theme=apprentice" />
+</p>
+
+## 📟 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=apprentice&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul25&theme=apprentice" />
+</p>
+
+<p align="center">
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakibul25&theme=apprentice&utcOffset=6" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakibul25&theme=apprentice" />
+</p>
 
 ---
+
 
 ### 🤝 Let's Connect
 
