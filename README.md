@@ -41,9 +41,11 @@ I'm a mobile application developer at **Codeware Ltd.**, passionate about buildi
 ## 📟 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=apprentice&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul25&theme=apprentice" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=apprentice&count_private=true&hide_border=true" />
 </p>
+
+
+
 
 ---
 
