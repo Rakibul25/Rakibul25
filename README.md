@@ -41,12 +41,10 @@
 
 ### 📊 GitHub Stats & Activity
 
+<!-- 📊 GitHub Stats & Activity -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rakibul25&show_icons=true&theme=apprentice&hide_border=true&count_private=true" alt="Rakibul's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakibul25&layout=compact&theme=apprentice&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibul25&theme=tokyo-night&hide_border=true" alt="Rakibul's GitHub Activity Graph" height="200" />
 </div>
-
-<br/>
 
 <!-- Animated Contribution Snake -->
 <div align="center">
@@ -73,4 +71,4 @@
 <p align="center"><i>"Simplifying complexity, inside and out."</i></p>
 
 <!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=100section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=100&section=footer" width="100%" />
