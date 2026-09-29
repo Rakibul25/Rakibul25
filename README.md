@@ -1,10 +1,10 @@
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=170&section=header&text=Hi%20there,%20I'm%20Rakibul%20Islam&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=170&section=header&text=Hi%20there,%20I'm%20Rakibul%20Islam&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Animated Typing Effect -->
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Mobile+Application+Developer;Flutter+%26+Dart+Specialist;Native+Android+%26+iOS+Engineer;Building+Solutions+at+Codeware+Ltd." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Mobile+Application+Developer;Flutter+%26+Dart+Specialist;Building+Scalable+Apps" />
   </a>
 </div>
 
@@ -41,9 +41,10 @@
 
 ### 📊 GitHub Stats & Activity
 
-<!-- 📊 GitHub Stats & Activity -->
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakibul25&theme=tokyo-night&hide_border=true" alt="Rakibul's GitHub Activity Graph" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <!-- Animated Contribution Snake -->
@@ -53,7 +54,6 @@
 </div>
 
 <br/>
-
 
 ---
 
